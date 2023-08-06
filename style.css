@@ -1,0 +1,83 @@
+body{
+  background: url(immagini/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.corpocentrale-sfondo{
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 1200px;
+  height: 850px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: white;
+}
+
+.corpocentrale{
+  line-height: 30px;
+  margin: 100px;
+  margin-top: 50px;
+}
+
+.logo{
+  width: 250px;
+  margin-top: 50px;
+}
+
+h1{
+  color: Chartreuse;
+}
+
+nav{
+  text-align: center;
+  background-color: Chartreuse;
+  line-height: 50px;
+  border-radius: 5px;
+}
+
+main{
+  text-align: left;
+  margin-top: 20px;
+}
+
+.monopattino{
+  display: inline-block;
+  font-size: 25px;
+}
+
+span{
+  display: block;
+  font-size: 18px;
+}
+
+#rettangle1{
+  width: 500px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+#rettangle2{
+  width: 800px;
+  height: 30px;
+  background-color: yellowgreen;
+  border-radius: 5px;
+}
+
+#rettangle3{
+  width: 200px;
+  height: 30px;
+  background-color: red;
+  border-radius: 5px;
+}
+
+.box{
+  margin-top: 30px;
+}
+
+footer{
+  color: black;
+  text-align: center;
+}
